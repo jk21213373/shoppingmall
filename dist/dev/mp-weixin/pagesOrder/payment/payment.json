@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "支付结果",
+  "usingComponents": {
+    "x-r-b-f-guess": "../../components/XRBFGuess"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "usingComponents": {
+    "x-r-b-f-swiper": "../../components/XRBFSwiper",
+    "page-skeleton": "./components/PageSkeleton"
+  }
+}

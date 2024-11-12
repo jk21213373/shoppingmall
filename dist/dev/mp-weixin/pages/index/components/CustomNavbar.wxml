@@ -1,0 +1,1 @@
+<view class="navbar" style="{{'padding-top:' + a}}"><view class="logo"></view><view class="search"><text class="icon-search">搜索商品</text><text class="icon-scan"></text></view></view>
